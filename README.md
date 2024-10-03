@@ -6,7 +6,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-- ![Leetcode Stats](https://leetcard.jacoblin.cool/prashant020804?ext=heatmap)
+- ![Leetcode Stats](https://leetcard.jacoblin.cool/_prashantchaudhary_?ext=heatmap)
 
 <!---
 Prashant020804/Prashant020804 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
